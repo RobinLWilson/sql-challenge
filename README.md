@@ -1,7 +1,7 @@
 # sql-challenge
 Module 9, SQL
 
-This challenge utilizes and ERD to create a schema for an employment database.
+This challenge utilized an ERD to create a schema for an employment database.
 Queries include:
 - Employee list with full name, sex & salary
 - All employees hired in 1986
